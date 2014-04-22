@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [davidjbradshaw/iframe-resizer](http://github.com/davidjbradshaw/iframe-resizer). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/davidjbradshaw-iframe-resizer`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # iFrame Resizer 
 [![Bower version](https://badge.fury.io/bo/iframe-resizer.png)](http://badge.fury.io/bo/iframe-resizer) [![Build Status](https://travis-ci.org/davidjbradshaw/iframe-resizer.png?branch=master)](https://travis-ci.org/davidjbradshaw/iframe-resizer) [![Code Climate](https://codeclimate.com/github/davidjbradshaw/iframe-resizer.png)](https://codeclimate.com/github/davidjbradshaw/iframe-resizer) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
